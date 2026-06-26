@@ -27,7 +27,7 @@ Currently trained to recognize **3 signs**: `A`, `B`, and `L` — but it's fully
 ## 🧠 How it Works
 
 <p align="center">
-  <img src="images/pipeline-diagram.svg" alt="Pipeline: collect images → extract landmarks → train classifier → predict live" width="100%">
+ 
 </p>
 
 | Step | Script | What it does |
